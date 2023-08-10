@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1020113093828",
+    "project_id": "auck-3909a",
+    "storage_bucket": "auck-3909a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020113093828:android:eebb5bfc58dccb259b3591",
+        "android_client_info": {
+          "package_name": "com.example.agave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020113093828-mpvd0f1752l5mdmv066rh16786lee206.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAyLzNW5kpKlbb97gtNcanGGWSTAqHLBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020113093828-mpvd0f1752l5mdmv066rh16786lee206.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020113093828-7h1r7qu99k8gqeue6bp4lh73gjrvfd5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agave.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
